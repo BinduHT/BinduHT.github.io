@@ -1,3 +1,3 @@
 # BinduHT.github.io
 ## My DataEng Class Activities
-[Activity 9.1 and 9.2] ("https://binduht.github.io/PCDE-Activity-9.1")
+<p><a href="https://binduht.github.io/PCDE-Activity-9.1" title="Activity 9.1 and 9.2">Activity 9.1 and 9.2</a></p>
